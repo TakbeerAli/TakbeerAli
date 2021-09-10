@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-6700
-Fork on GitHub
-1226
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Takbeer Ali Khan</h1>
 <h3 align="center">A passionate frontend & Back-end Developer from Pakistan , i have also worked on React Native</h3>
 
