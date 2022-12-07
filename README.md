@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Takbeer Ali Khan</h1>
-<h3 align="center">A passionate frontend & Back-end Developer from Pakistan , i have also worked on React Native</h3>
+<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takbeerali&label=Profile%20views&color=0e75b6&style=flat" alt="takbeerali" /> </p>
 
